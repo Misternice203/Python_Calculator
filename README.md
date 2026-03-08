@@ -21,10 +21,11 @@ A simple command line calculator built with python, that preforms basic arithmat
 Enter first number: 5
 Enter second number: 3
 
-1.Add
-2.Subtract
-3.Multiply
-4.Divide
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+5. Exponentiation
 Choose operation: +
 Result: 8
 
@@ -37,7 +38,7 @@ Result: 8
 ## Concepts Used
 - Python functions
 - while loops
-- if / elif/ else logic
+- if / elif / else logic
 - user input handling
 - basic error handling
 
