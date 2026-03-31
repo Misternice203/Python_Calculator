@@ -1,5 +1,5 @@
 # Python_Calculator
-My first Project!!
+Basic CLI Calculator using Python.
 
 ## Code
 [View Calculator.py](Calculator.py)
@@ -48,6 +48,7 @@ while building this project i practiced:
 - controlling program flow with loops
 - handling user input
 - preventing division by zero
+- Python fundamentals 
 
 ## future improvements:
 - Store calculation history
