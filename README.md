@@ -53,3 +53,5 @@ while building this project i practiced:
 ## future improvements:
 - Store calculation history
 - Add input validation
+- Add past calculations to a list
+- Add multiple calculations instead of just two numbers
